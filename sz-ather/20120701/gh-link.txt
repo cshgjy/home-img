@@ -1,3 +1,0 @@
-<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/home-img/sz-ather/20120701/001.jpg" class="thumb"></article>
-<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/home-img/sz-ather/20120701/002.jpg" class="thumb"></article>
-<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/home-img/sz-ather/20120701/003.jpg" class="thumb"></article>
