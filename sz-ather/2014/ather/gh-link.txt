@@ -1,0 +1,11 @@
+<article class="white-panel" style="text-align: center;"><video src="https://cdn.jsdelivr.net/gh/cshgjy/home-img/sz-ather/2014/001.mp4" width="100%" height="" controls></video><h1>视频（1）</h1></article>
+<article class="white-panel" style="text-align: center;"><video src="https://cdn.jsdelivr.net/gh/cshgjy/home-img/sz-ather/2014/002.mp4" width="100%" height="" controls></video><h1>视频（2）</h1></article>
+<article class="white-panel" style="text-align: center;"><video src="https://cdn.jsdelivr.net/gh/cshgjy/home-img/sz-ather/2014/003.mp4" width="100%" height="" controls></video><h1>视频（3）</h1></article>
+<article class="white-panel" style="text-align: center;"><video src="https://cdn.jsdelivr.net/gh/cshgjy/home-img/sz-ather/2014/004.mp4" width="100%" height="" controls></video><h1>视频（4）</h1></article>
+<article class="white-panel" style="text-align: center;"><video src="https://cdn.jsdelivr.net/gh/cshgjy/home-img/sz-ather/2014/005.mp4" width="100%" height="" controls></video><h1>视频（5）</h1></article>
+
+
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/home-img/sz-ather/2014/001.mp4" class="thumb"></article>"
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/home-img/sz-ather/2014/002.mp4" class="thumb"></article>"
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/home-img/sz-ather/2014/003.mp4" class="thumb"></article>"
+<article class="white-panel"><img src="https://cdn.jsdelivr.net/gh/cshgjy/home-img/sz-ather/2014/004.mp4" class="thumb"></article>"
